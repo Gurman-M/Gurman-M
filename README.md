@@ -1,4 +1,4 @@
-#👋 Hi, I’m Gurman
+# Hi, I’m Gurman 👋
 
 - 👀 I’m interested in competitve programming 
 
