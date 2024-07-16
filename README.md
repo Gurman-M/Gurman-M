@@ -1,6 +1,6 @@
 # Hi, I’m Gurman 👋
 
-- 👀 I’m interested in competitve programming 
+- 👀 I’m interested in competitive programming 
 
 - 🌱 I’m currently improving my skills in Java through competitive programming and learning Python!
 
