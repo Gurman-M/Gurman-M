@@ -8,3 +8,5 @@
 
 - 📫 How to reach me : gurmanmundi10@gmail.com
 
+- My personal website: https://gurman-m.github.io/Personal-Website/index.html
+
